@@ -1,9 +1,9 @@
 class DarkNotify < Formula
   desc "Watcher for macOS 10.14+ light/dark mode changes"
   homepage "https://github.com/cormacrelf/dark-notify"
-  url "https://github.com/cormacrelf/dark-notify/releases/download/v0.1.1/dark-notify-v0.1.1.tar.gz"
-  sha256 "098c82f8b401ab20c91a6c416be6f0dfa2598fa98a4cf60e2e515f3809846912"
-  version "0.1.1"
+  url "https://github.com/cormacrelf/dark-notify/releases/download/v0.1.2/dark-notify-v0.1.2.tar.gz"
+  sha256 "987c4e40ca9f7996f72d8967a74417e2fc7e8d7aea02e93bd314f80a80817f9a"
+  version "0.1.2"
 
   def install
     bin.install "dark-notify"
